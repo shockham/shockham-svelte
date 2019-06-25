@@ -7,7 +7,6 @@ Another re-write of my site using a different framework.
 Install the dependencies...
 
 ```bash
-cd svelte-app
 npm install
 ```
 
