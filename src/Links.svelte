@@ -19,16 +19,10 @@ a:hover {
 </style>
 
 <div>
-  <a
-    href="https://twitter.com/shockham"
-    target="_blank"
-  >tw</a>
-  <a
-    href="https://github.com/shockham"
-    target="_blank"
-  >gh</a>
-  <a
-    href="https://shockham.bandcamp.com/"
-    target="_blank"
-  >bc</a>
+  <a href="https://twitter.com/shockham" target="_blank">tw</a>
+  <a href="https://github.com/shockham" target="_blank">gh</a>
+  <a href="https://shockham.bandcamp.com/" target="_blank">bc</a>
+  <a rel="me" href="https://merveilles.town/@shockham" target="_blank">
+      me
+  </a>
 </div>
