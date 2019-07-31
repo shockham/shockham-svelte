@@ -6,6 +6,7 @@
         { title: 'caper', desc: 'Minamalist game framework', href: "https://github.com/shockham/caper"},
         { title: 'volition', desc: 'Minamalist input lib', href: "https://github.com/shockham/volition"},
         { title: 'impose', desc: 'Minamalist audio lib', href: "https://github.com/shockham/impose" },
+        { title: 'infuse', desc: 'Minamalist wasm based webgl renderer', href: "https://github.com/shockham/infuse" },
         { title: 'efferve', desc: 'Effervescent ray march sketch', href: "https://efferve.shockham.now.sh/" },
         { title: 'effuse', desc: 'Drippy ray march sketch', href: "https://effuse.shockham.now.sh/" },
     ];
