@@ -8,7 +8,7 @@
     a {
         background: #fff;
         color: #111;
-        padding: 5px;
+        padding: 0 10px;
         transition: all 0.5s ease 0s;
         cursor: pointer;
         text-decoration: none;

@@ -20,6 +20,11 @@
         grid-template-columns: repeat(4, 1fr);
         grid-auto-flow: row dense;
     }
+    @media only screen and (max-width: 640px) {
+        div {
+            grid-template-columns: repeat(1, 1fr);
+        }
+    }
 </style>
 
 <Title/>
