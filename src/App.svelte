@@ -9,6 +9,7 @@
         { title: 'infuse', desc: 'Minamalist wasm based webgl renderer', href: "https://github.com/shockham/infuse" },
         { title: 'efferve', desc: 'Effervescent ray march sketch', href: "https://efferve.shockham.now.sh/" },
         { title: 'effuse', desc: 'Drippy ray march sketch', href: "https://effuse.shockham.now.sh/" },
+        { title: 'botanea', desc: 'Botantical ray march sketch', href: "https://botanea.shockham.now.sh/" },
     ];
 </script>
 
