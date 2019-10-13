@@ -10,6 +10,7 @@
         { title: 'efferve', desc: 'Effervescent ray march sketch', href: "https://efferve.shockham.now.sh/" },
         { title: 'effuse', desc: 'Drippy ray march sketch', href: "https://effuse.shockham.now.sh/" },
         { title: 'botanea', desc: 'Botantical ray march sketch', href: "https://botanea.shockham.now.sh/" },
+        { title: 'rhombei', desc: 'Rhombus ray march sketch', href: "https://rhombei.shockham.now.sh/" },
     ];
 </script>
 
