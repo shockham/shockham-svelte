@@ -4,6 +4,12 @@
 
     let projects = [
         {
+            title: 'weive',
+            desc: 'Rounded cube ray march sketch',
+            href: "https://weive.shockham.now.sh/",
+            img: "https://s3-eu-central-1.amazonaws.com/merveilles/media_attachments/files/000/430/542/original/5d55e27ca92157db.png",
+        },
+        {
             title: 'efferve',
             desc: 'Effervescent ray march sketch',
             href: "https://efferve.shockham.now.sh/",
