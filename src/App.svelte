@@ -34,6 +34,12 @@
             img: "https://s3-eu-central-1.amazonaws.com/merveilles/media_attachments/files/000/388/210/original/a9c2551e9be1b0f6.png",
         },
         {
+            title: 'noiser',
+            desc: 'FM Synth + step sequencer',
+            href: 'https://noiser.shockham.now.sh/',
+            img: 'https://s3-eu-central-1.amazonaws.com/merveilles/media_attachments/files/000/506/971/original/2e99238bf0de5ee4.png',
+        },
+        {
             title: 'infuse',
             desc: 'Minamalist wasm based webgl renderer',
             href: "https://github.com/shockham/infuse"
