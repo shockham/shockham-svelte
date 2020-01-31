@@ -6,7 +6,7 @@
         {
             title: 'flicke',
             desc: 'Initially intended to be a flickery fire ray march sketch',
-            href: "https://github.com/shockham/flicke",
+            href: "https://flicke.now.sh/",
             img: "https://s3-eu-central-1.amazonaws.com/merveilles/media_attachments/files/000/519/799/original/89011a1732a64908.png",
         },
         {
