@@ -2,7 +2,6 @@
     export let title;
     export let desc;
     export let href;
-    export let img;
 </script>
 
 <style>
@@ -25,7 +24,5 @@
 <a {href} target="_blank">
     <h2>{title}</h2>
     <p>{desc}</p>
-    {#if img}
-        <img src="{img}" alt="{title}">
-    {/if}
+    <img src="/img/{title}.png" alt="_">
 </a>
